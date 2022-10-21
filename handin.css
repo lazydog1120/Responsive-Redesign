@@ -1,0 +1,49 @@
+#Responsive-Redesign {
+    background-color: lightblue;
+  }
+.screenshots_website{
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-around;
+  }
+  .website-item{
+    margin-bottom: 10px;
+    width: 500px;
+  }
+
+  .style_guide{
+    display: flex;
+  }
+  .style-guide-item{
+      margin-left: 20px;
+      width:500px;
+  }
+
+  .LoFi-Desktop{
+    display: flex;
+  }
+  .LoFi-Tablet{
+    display: flex;
+  }
+  .LoFi-Mobile{
+    display: flex;
+  }
+  .LoFi-item{
+      width: 500px;
+      margin-left: 20px;
+  }
+
+  .HiFi-Desktop{
+    display: flex;
+  }
+  .HiFi-Tablet{
+    display: flex;
+  }
+  .HiFi-Mobile{
+    display: flex;
+  }
+  .HiFi-item{
+      width: 600px;
+      margin-left: 20px;
+  }
